@@ -19,13 +19,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "RainforestSDKFramework",
-            url: "https://static.rainforestpay.com/tap-to-phone/rainforest-sdk.0.1.3.zip",
-            checksum: "20635ea30a962ee73cfc4d04c202ab1eff96482979e0a205bd7e1be446c55d3c"
+            url: "https://static.rainforestpay.com/tap-to-phone/rainforest-sdk.0.2.1.zip",
+            checksum: "18a4cc23a143096336b0a4cab9d756b3c3bd756d52d0ddcf26682d9a282733a0"
         ),
         .binaryTarget(
             name: "CloudCommerceFramework",
-            url: "https://static.rainforestpay.com/tap-to-phone/cloud-commerce.0.1.3.zip",
-            checksum: "e3190f6154d6b3b1d704c5d5418c6f44ae53ac38932a54b976a11b4994556548"
+            url: "https://static.rainforestpay.com/tap-to-phone/cloud-commerce.0.2.1.zip",
+            checksum: "3a683805368ec2d9b5387c7fe78b55840c381a101043f7a76df4ab431369cf59"
         ),
     ]
 )
